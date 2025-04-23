@@ -17,7 +17,7 @@ Ensure you have Python 3.8+ installed on your system.
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aryanrajrcotba/AI-Medical-Advisor.git
+   git clone https://github.com/akshayykrjhaa/ai_project.git
    cd AI-Medical-Advisor
    ```
 2. Create and activate a virtual environment (recommended):
