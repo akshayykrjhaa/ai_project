@@ -1,0 +1,9 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        mavenCentral()
+        // Add other repositories if needed
+    }
+}
+
+rootProject.name = 'ai_project'
